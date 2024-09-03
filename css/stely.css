@@ -29,7 +29,7 @@ body {
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
-  text-shadow: 1px 1px 1px #222;
+  text-shadow: 1px 1px 1px #040404;
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
@@ -88,7 +88,7 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #050505;
+  background-color: #030303;
   border-top: 0;
 }
 .panel-footer div.row {
@@ -130,7 +130,7 @@ body {
   overflow: hidden;
 }
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
-  box-shadow: 0 1px 5px 1px #cccccc;
+  box-shadow: 0 1px 5px 1px #d7d7d7;
 }
 #menu-tile {
   background: url('../image/a-heder/02.jpg') no-repeat;
@@ -149,8 +149,8 @@ body {
   text-align: center;
   font-size: 1.6em;
   text-transform: uppercase;
-  background-color: #000;
-  color: #fff;
+  background-color: #070707;
+  color: #faf9f9;
   opacity: .8;
 }
 /* END HOME PAGE */
@@ -158,7 +158,7 @@ body {
 /* MENU CATEGORIES PAGE */
 .category-tile { 
   position: relative;
-  border: 1px solid #3F0C1F;
+  border: 1px solid #96104e;
   overflow: hidden;
   width: 200px;
   height: 200px;
@@ -177,7 +177,7 @@ body {
   opacity: .8;
 }
 .category-tile:hover {
-  box-shadow: 0 1px 5px 1px #cccccc;
+  box-shadow: 0 1px 5px 1px #d6d4d4;
 }
 
 #menu-categories-title + div {
